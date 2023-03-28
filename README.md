@@ -7,6 +7,8 @@
 ᴠɪᴄᴋᴍᴀᴄʜɪɴᴇʙᴏᴛ ɪs ɴᴏᴛ ᴍɪɴᴇ.
 
 # ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 🚀
+<i>**[Watch Deploying Tutorial...](https://youtu.be/81Zn2ZBoUsw)**</i>
+
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/its-star-boi/Candy_chatbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
