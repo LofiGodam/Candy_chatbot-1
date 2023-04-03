@@ -20,8 +20,8 @@
 <a href="https://github.com/its-star-boi/Candy_chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=its-star-boi&repo=Candy_chatbot&theme=chartreuse-dark"></a>
 
 ### sᴜᴘᴘᴏʀᴛ
-<p align="center"><a href="https://t.me/Best_FriendsFor_Ever"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
-<p align="center"><a href="https://t.me/Star_X_Network"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+<p align="center"><a href="https://telegram.me/Star_X_Support"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+<p align="center"><a href="https://telegram.me/Star_X_Network"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 
 ## ʀᴇᴘᴏ ᴄʀᴇᴅɪᴛ 
 - [ᴅᴇᴠ ᴀʀᴏʀᴀ](https://github.com/Devarora-0981)
