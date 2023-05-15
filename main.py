@@ -283,7 +283,7 @@ ABOUT_BTN = [
            InlineKeyboardButton(text="✨ ʙᴀᴄᴋ ✨", callback_data="BACK"),
       ],
 ]
-SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{BOT_NAME}](https://t.me/{BOT_USERNAME}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://github.com/its-star-boi/Candy_chatbot)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||©️ @{OWNER_USERNAME}||</b>"
+SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{BOT_NAME}](https://t.me/{BOT_USERNAME}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://github.com/itz-star-boi/Candy_chatbot)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||©️ @{OWNER_USERNAME}||</b>"
 
 ABOUT_READ = f"""
 **➻ [{BOT_NAME}](https://t.me/{BOT_USERNAME}) ɪs ᴀɴ ᴀɪ ʙᴀsᴇᴅ ᴄʜᴀᴛ-ʙᴏᴛ.**
@@ -697,5 +697,5 @@ async def candyprivatesticker(client: Client, message: Message):
            if not Yo == "text":
                await message.reply_sticker(f"{hey}")
 
-print(f"{BOT_NAME} ɪs ᴀʟɪᴠᴇ! ɴᴏᴡ ғᴜᴄᴋ ᴏғғ! ᴀɴᴅ ɢᴏ ᴛᴏ @Best_FriendsFor_Ever ʙɪᴛᴄʜ!!")      
+print(f"{BOT_NAME} ɪs ᴀʟɪᴠᴇ! ɴᴏᴡ ғᴜᴄᴋ ᴏғғ! ᴀɴᴅ ɢᴏ ᴛᴏ @Star_X_Support ʙɪᴛᴄʜ!!")      
 bot.run()
