@@ -9,7 +9,7 @@
 # ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 🚀
 <i>**[Watch Deploying Tutorial...](https://youtu.be/81Zn2ZBoUsw)**</i>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/itz-star-boi/Candy_chatbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/LofiGodam/Candy_chatbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ## <i>ᴄʜᴇᴄᴋ ᴛʜᴇ ᴅᴇᴍᴏ ʀᴏʙᴏᴛ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ!</i>
@@ -17,10 +17,10 @@
 <p align="center"><a href="https://t.me/itz_candy_robot"> <img src="https://img.shields.io/badge/CHECK-Demo%20Robot-black?style=for-the-badge&logo=Telegram" width="220" height="39"/></a></p>
 
 ## ʀᴇᴘᴏ sᴛᴀᴛs
-<a href="https://github.com/its-star-boi/Candy_chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=its-star-boi&repo=Candy_chatbot&theme=chartreuse-dark"></a>
+<a href="https://github.com/LofiGodam/Candy_chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=its-star-boi&repo=Candy_chatbot&theme=chartreuse-dark"></a>
 
 ### sᴜᴘᴘᴏʀᴛ
-<p align="center"><a href="https://telegram.me/Star_X_Support"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+<p align="center"><a href="https://telegram.me/ODDRAGONS"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 <p align="center"><a href="https://telegram.me/Star_X_Network"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 
 ## ʀᴇᴘᴏ ᴄʀᴇᴅɪᴛ 
