@@ -112,17 +112,17 @@ START = f"""
 """
 DEV_OP = [
     [
-        InlineKeyboardButton(text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"t.me/{OWNER_USERNAME}"),
+        InlineKeyboardButton(text="💫 ᴏᴡɴᴇʀ 💫", url=f"t.me/{OWNER_USERNAME}"),
         InlineKeyboardButton(text="✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/{SUPPORT_GRP}"),
     ],
     [
         InlineKeyboardButton(
-            text="🧸 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 🧸",
+            text="🐼 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 🐼",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="🚀 ʜᴇʟᴘ & ᴄᴍᴅs 🚀", callback_data="HELP"),
+        InlineKeyboardButton(text="💥 ʜᴇʟᴘ & ᴄᴍᴅs 💥", callback_data="HELP"),
     ],
     [
         InlineKeyboardButton(text="❄️ sᴏᴜʀᴄᴇ ❄️", callback_data="SOURCE"),
@@ -132,7 +132,7 @@ DEV_OP = [
 PNG_BTN = [
     [
          InlineKeyboardButton(
-             text="🧸 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 🧸",
+             text="🐼 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 🐼",
              url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
          ),
      ],
@@ -182,7 +182,7 @@ CHATBOT_ON = [
 PNG_BTN = [
     [
          InlineKeyboardButton(
-             text="🧸 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 🧸",
+             text="🐼 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 🐼",
              url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
          ),
      ],
@@ -257,14 +257,14 @@ CHATBOT_BACK = [
 ]
 HELP_START = [
      [
-            InlineKeyboardButton(text="🚀 ʜᴇʟᴘ 🚀", callback_data="HELP"),
+            InlineKeyboardButton(text="💥 ʜᴇʟᴘ 💥", callback_data="HELP"),
             InlineKeyboardButton(text="🐳 ᴄʟᴏsᴇ 🐳", callback_data="CLOSE"),
      ],
 ]
 
 HELP_BUTN = [
      [
-           InlineKeyboardButton(text="🚀 ʜᴇʟᴘ 🚀", url=f"https://t.me/{BOT_USERNAME}?start=help"),
+           InlineKeyboardButton(text="💥 ʜᴇʟᴘ 💥", url=f"https://t.me/{BOT_USERNAME}?start=help"),
            InlineKeyboardButton(text="🐳 ᴄʟᴏsᴇ 🐳", callback_data="CLOSE"),
      ],
 ]
@@ -275,7 +275,7 @@ ABOUT_BTN = [
            InlineKeyboardButton(text="🚀 ʜᴇʟᴘ 🚀", callback_data="HELP"),
       ],
       [    
-           InlineKeyboardButton(text="🍾 ᴏᴡɴᴇʀ 🍾", url=f"https://t.me/{OWNER_USERNAME}"), 
+           InlineKeyboardButton(text="🌚 ᴏᴡɴᴇʀ 🌝", url=f"https://t.me/{OWNER_USERNAME}"), 
            InlineKeyboardButton(text="❄️ sᴏᴜʀᴄᴇ ❄️", callback_data="SOURCE"),
       ],
       [ 
@@ -283,7 +283,7 @@ ABOUT_BTN = [
            InlineKeyboardButton(text="✨ ʙᴀᴄᴋ ✨", callback_data="BACK"),
       ],
 ]
-SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{BOT_NAME}](https://t.me/{BOT_USERNAME}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://github.com/itz-star-boi/Candy_chatbot)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||©️ @{OWNER_USERNAME}||</b>"
+SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{BOT_NAME}](https://t.me/{BOT_USERNAME}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://te.legra.ph/file/8c1a9bd532d47785afc8e.png)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||©️ @{OWNER_USERNAME}||</b>"
 
 ABOUT_READ = f"""
 **➻ [{BOT_NAME}](https://t.me/{BOT_USERNAME}) ɪs ᴀɴ ᴀɪ ʙᴀsᴇᴅ ᴄʜᴀᴛ-ʙᴏᴛ.**
@@ -436,7 +436,7 @@ async def restart(client, m: Message):
 async def get_st(_, msg: Message):
     users = len(await get_served_users())
     chats = len(await get_served_chats())
-    await msg.reply_photo(photo="https://te.legra.ph/file/2d5b054acddf865d4d83e.png",
+    await msg.reply_photo(photo="https://te.legra.ph/file/68fa108d07007d78d71ef.png",
                           caption=f"""ᴛᴏᴛᴀʟ sᴛᴀᴛs ᴏғ {BOT_NAME}
           ➻ **ᴄʜᴀᴛs :** {chats}
           ➻ **ᴜsᴇʀs :** {users}"""
@@ -454,7 +454,7 @@ async def ping(client, message: Message):
     ms = (datetime.now()-start).microseconds / 1000
     await message.reply_photo(
         photo=random.choice(PHOTO),
-        caption=f"нey вαву!!\n**[{BOT_NAME}](t.me/{BOT_USERNAME})** ιѕ alιve 🥀 αnd worĸιng ғιne wιтн a pιng oғ\n➥ `{ms}` ms\n\n<b>||мαdє ωιтн ❣️ ву [Developer](https://t.me/{OWNER_USERNAME})||</b>",
+        caption=f"нey вαву!!\n**[{BOT_NAME}](t.me/{BOT_USERNAME})** ιѕ alιve 🥀 αnd worĸιng ғιne wιтн a pιng oғ\n➥ `{ms}` ms\n\n<b>||мαdє ωιтн ❣️ ву [ᴇᴀɢʟᴇ 💫](https://t.me/EAGLE_BACK)||</b>",
         reply_markup=InlineKeyboardMarkup(PNG_BTN),
     )
 
@@ -697,5 +697,5 @@ async def candyprivatesticker(client: Client, message: Message):
            if not Yo == "text":
                await message.reply_sticker(f"{hey}")
 
-print(f"{BOT_NAME} ɪs ᴀʟɪᴠᴇ! ɴᴏᴡ ғᴜᴄᴋ ᴏғғ! ᴀɴᴅ ɢᴏ ᴛᴏ @Star_X_Support ʙɪᴛᴄʜ!!")      
+print(f"{BOT_NAME} ɪs ᴀʟɪᴠᴇ! ɴᴏᴡ ғᴜᴄᴋ ᴏғғ! ᴀɴᴅ ɢᴏ ᴛᴏ @ODDRAGONS ʙɪᴛᴄʜ!!")      
 bot.run()
